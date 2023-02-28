@@ -15,5 +15,5 @@
 
 #### 6. Assess the strength of the rules through the support, confidence, and lift and adjust as needed.
 
-### Outcome: Next steps would be to identify patients with prescriptions that match the association rules to determine their diagnosis and cost of treatment. By gathering additional information, such as a patient’s diagnosis, cost of treatment, services received, comorbidities, and readmission, it will help leadership understand the patient population allowing for better strategic decisions for equipment, type of providers to hire, or better ways to care for the patient.
+#### Outcome: Next steps would be to identify patients with prescriptions that match the association rules to determine their diagnosis and cost of treatment. By gathering additional information, such as a patient’s diagnosis, cost of treatment, services received, comorbidities, and readmission, it will help leadership understand the patient population allowing for better strategic decisions for equipment, type of providers to hire, or better ways to care for the patient.
 
